@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PrescriptionDecoder.API/PrescriptionDecoder.API.csproj" />
+  <Project Path="PrescriptionDecoder.Application/PrescriptionDecoder.Application.csproj" />
+  <Project Path="PrescriptionDecoder.Domain/PrescriptionDecoder.Domain.csproj" />
+  <Project Path="PrescriptionDecoder.Infrastructure/PrescriptionDecoder.Infrastructure.csproj" />
+</Solution>
